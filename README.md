@@ -87,10 +87,10 @@
 
 ## :computer: インストール方法
 1.このリポジトリを複製
-$ git clone https://github.com/masaaki1130/fleamarket_sample_78e.git
+$ git clone https://github.com/karajan-37458/FURIMA.git
 
 2.インストールしたリポジトリに移動
-$ cd freemarket_samle_78e.git
+$ cd FURIMA.git
 
 3.gemをアプリケーションに適用
 $ bundle install
