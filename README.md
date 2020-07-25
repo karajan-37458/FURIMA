@@ -20,7 +20,7 @@
   <li>決済方法はご自身のクレジットカードのみ。</li>
 </ul>
 
-## :link: 主な使用言語
+## :link: 開発環境
 
 <p align="center">
   <a href="https://www.ruby-lang.org/ja/"><img src="https://user-images.githubusercontent.com/39142850/71774533-1ddf1780-2fb4-11ea-8560-753bed352838.png" width="45px;" /></a>
