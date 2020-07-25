@@ -90,7 +90,7 @@
 $ git clone https://github.com/karajan-37458/FURIMA.git
 
 2.インストールしたリポジトリに移動
-$ cd FURIMA.git
+$ cd FURIMA
 
 3.gemをアプリケーションに適用
 $ bundle install
