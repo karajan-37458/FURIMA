@@ -4,7 +4,7 @@
 
 
 
-<h2 align="center">FURIMA</h2>
+<h1 align="center">FURIMA</h1>
 
 ## :link: アプリケーションの概要
 <ul>
