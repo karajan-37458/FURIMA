@@ -1,10 +1,14 @@
-
-![FURIMA](https://user-images.githubusercontent.com/66311435/87513342-8ae60f00-c6b3-11ea-90a6-e912fbe605fb.jpg)
-
-
-
-
 <h1 align="center">FURIMA</h1>
+
+
+
+
+[![FURIMA](https://user-images.githubusercontent.com/66311435/87513342-8ae60f00-c6b3-11ea-90a6-e912fbe605fb.jpg)](https://user-images.githubusercontent.com/66311435/87513342-8ae60f00-c6b3-11ea-90a6-e912fbe605fb)
+
+
+
+
+
 
 ## :link: アプリケーションの概要
 <ul>
