@@ -24,6 +24,9 @@
   <li>パスワード : hayate1130</li>
 </ul>
 
+## :page_facing_up: 説明資料
+https://docs.google.com/document/d/1Ba3vfh8clxtgb0heOh2vzRfitn2dVoTw2nkd1kFBYHo/edit?usp=sharing
+
 ## :link: アプリケーションの機能
 <ul>
   <li>新規会員登録・ログインをすると商品の購入、出品が可能。</li>
