@@ -24,6 +24,21 @@
   <li>パスワード : hayate1130</li>
 </ul>
 
+## :bust_in_silhouette: テスト用アカウント等
+<ul>○ 出品者用
+  <li>メールアドレス: test@gmail.com</li>
+  <li>パスワード: aaaaaaa</li>
+</ul>
+<ul>○ 購入者用
+  <li>メールアドレス: test2@gmail.com</li>
+  <li>パスワード: aaaaaaa</li>
+</ul>
+<ul>○ 購入用カード情報
+  <li>番号： 4242424242424242</li>
+  <li>期限： 04/26</li>
+  <li>セキュリティコード：123</li>
+</ul>
+
 ## :page_facing_up: 説明資料
 https://docs.google.com/document/d/1Ba3vfh8clxtgb0heOh2vzRfitn2dVoTw2nkd1kFBYHo/edit?usp=sharing
 
